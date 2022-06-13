@@ -6,7 +6,7 @@
 .bg {
   min-height: 100vh;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url(/img/pic\ 3.jpg);
+    url(/Users/frank/Desktop/WebDev/img/pic\ 3.jpg);
   background-size: cover;
 }
 img.logo {
@@ -274,7 +274,7 @@ h3 {
   width: 80%;
   text-align: center;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/img/pic\ 10.jpg);
+    url(/Users/frank/Desktop/WebDev/img/pic\ 10.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 10px;
